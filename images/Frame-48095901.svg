@@ -1,0 +1,16 @@
+<svg width="495" height="156" viewBox="0 0 495 156" fill="none" xmlns="http://www.w3.org/2000/svg">
+<line y1="155" x2="157" y2="155" stroke="#0D0D0D" stroke-opacity="0.5" stroke-width="2"/>
+<line y1="1" x2="157" y2="1" stroke="#0D0D0D" stroke-opacity="0.5" stroke-width="2"/>
+<circle cx="79" cy="78" r="77" stroke="#0D0D0D" stroke-opacity="0.5" stroke-width="2"/>
+<line x1="337" y1="155" x2="494" y2="155" stroke="#0D0D0D" stroke-opacity="0.5" stroke-width="2"/>
+<line x1="337" y1="1" x2="494" y2="1" stroke="#0D0D0D" stroke-opacity="0.5" stroke-width="2"/>
+<path d="M494.5 80H337" stroke="#0D0D0D" stroke-opacity="0.5" stroke-width="2" stroke-linejoin="bevel"/>
+<path d="M422 24L494 65" stroke="#0D0D0D" stroke-opacity="0.5" stroke-width="2" stroke-linejoin="bevel"/>
+<path d="M494 94L422 135" stroke="#0D0D0D" stroke-opacity="0.5" stroke-width="2" stroke-linejoin="bevel"/>
+<line x1="169" y1="155" x2="325" y2="155" stroke="#0D0D0D" stroke-opacity="0.5" stroke-width="2"/>
+<line x1="169" y1="1" x2="325" y2="1" stroke="#0D0D0D" stroke-opacity="0.5" stroke-width="2"/>
+<path d="M247 10V42" stroke="#0D0D0D" stroke-opacity="0.5" stroke-width="2" stroke-linejoin="bevel"/>
+<path d="M247 114.5V146.5" stroke="#0D0D0D" stroke-opacity="0.5" stroke-width="2" stroke-linejoin="bevel"/>
+<path d="M315.255 78.2451L283.255 78.2451" stroke="#0D0D0D" stroke-opacity="0.5" stroke-width="2" stroke-linejoin="bevel"/>
+<path d="M210.755 78.2451L178.755 78.2451" stroke="#0D0D0D" stroke-opacity="0.5" stroke-width="2" stroke-linejoin="bevel"/>
+</svg>

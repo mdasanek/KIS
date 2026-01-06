@@ -1,0 +1,15 @@
+<svg width="495" height="158" viewBox="0 0 495 158" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g opacity="0.5">
+<line x1="1" y1="1.00012" x2="242" y2="1.00012" stroke="#0D0D0D" stroke-width="2"/>
+<line x1="254" y1="157" x2="495" y2="157" stroke="#0D0D0D" stroke-width="2"/>
+<line x1="254" y1="1.00037" x2="495" y2="1.00037" stroke="#0D0D0D" stroke-width="2"/>
+<path d="M373.996 15.1693V144.832" stroke="#0D0D0D" stroke-width="2" stroke-linejoin="bevel"/>
+<path d="M495 80.0004L254 80.0004" stroke="#0D0D0D" stroke-width="2" stroke-linejoin="bevel"/>
+<path d="M416.508 40.7472L332.486 118.742" stroke="#0D0D0D" stroke-width="2" stroke-linejoin="bevel"/>
+<path d="M332.486 40.7472L416.508 118.742" stroke="#0D0D0D" stroke-width="2" stroke-linejoin="bevel"/>
+<ellipse cx="373.991" cy="80.2537" rx="24.2008" ry="24.3117" fill="#FAFAFA"/>
+<line x1="1" y1="157" x2="242" y2="157" stroke="#0D0D0D" stroke-width="2"/>
+<path d="M1 6.05225L242 150.403" stroke="#0D0D0D" stroke-width="2" stroke-linejoin="bevel"/>
+<path d="M242 6.05225L1 150.403" stroke="#0D0D0D" stroke-width="2" stroke-linejoin="bevel"/>
+</g>
+</svg>

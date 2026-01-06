@@ -1,0 +1,25 @@
+<svg width="494" height="156" viewBox="0 0 494 156" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g opacity="0.5">
+<path d="M2 2L155 154" stroke="#0D0D0D" stroke-width="2" stroke-linejoin="bevel"/>
+<rect x="1" y="1" width="155" height="154" stroke="#0D0D0D" stroke-width="2"/>
+<rect width="20" height="20" fill="#FAFAFA"/>
+<rect y="136" width="20" height="20" fill="#FAFAFA"/>
+<rect x="137" width="20" height="20" fill="#FAFAFA"/>
+<rect x="137" y="136" width="20" height="20" fill="#FAFAFA"/>
+<path d="M171 154L324 2" stroke="#0D0D0D" stroke-width="2" stroke-linejoin="bevel"/>
+<path d="M171 2L324 154" stroke="#0D0D0D" stroke-width="2" stroke-linejoin="bevel"/>
+<rect x="1" y="-1" width="155" height="154" transform="matrix(1 0 0 -1 169 154)" stroke="#0D0D0D" stroke-width="2"/>
+<rect width="20" height="20" transform="matrix(1 0 0 -1 169 156)" fill="#FAFAFA"/>
+<rect width="20" height="20" transform="matrix(1 0 0 -1 169 20)" fill="#FAFAFA"/>
+<rect width="20" height="20" transform="matrix(1 0 0 -1 306 156)" fill="#FAFAFA"/>
+<rect width="20" height="20" transform="matrix(1 0 0 -1 306 20)" fill="#FAFAFA"/>
+<rect x="1" y="-1" width="155" height="154" transform="matrix(1 0 0 -1 336.998 153.999)" stroke="#0D0D0D" stroke-width="2"/>
+<circle cx="415" cy="77.9995" r="77" stroke="#0D0D0D" stroke-width="2"/>
+<rect width="20" height="20" transform="matrix(1 0 0 -1 337 156)" fill="#FAFAFA"/>
+<rect width="20" height="20" transform="matrix(1 0 0 -1 337 19.9998)" fill="#FAFAFA"/>
+<rect width="20" height="20" transform="matrix(1 0 0 -1 474 156)" fill="#FAFAFA"/>
+<rect width="20" height="20" transform="matrix(1 0 0 -1 474 19.9998)" fill="#FAFAFA"/>
+<path d="M365.75 78H465.75" stroke="#0D0D0D" stroke-width="2" stroke-linejoin="bevel"/>
+<path d="M415.75 28L415.75 128" stroke="#0D0D0D" stroke-width="2" stroke-linejoin="bevel"/>
+</g>
+</svg>

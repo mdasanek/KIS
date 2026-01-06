@@ -1,0 +1,13 @@
+<svg width="495" height="156" viewBox="0 0 495 156" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g opacity="0.5">
+<path d="M340 153.019L493 1.98732" stroke="#0D0D0D" stroke-width="2" stroke-linejoin="bevel"/>
+<path d="M340 1.9873L493 153.019" stroke="#0D0D0D" stroke-width="2" stroke-linejoin="bevel"/>
+<rect x="1" y="-1" width="155" height="153.006" transform="matrix(1 0 0 -1 338 153.006)" stroke="#0D0D0D" stroke-width="2"/>
+<path d="M78.5 1C121.308 1 156 35.4801 156 78C156 120.52 121.308 155 78.5 155C35.6919 155 1 120.52 1 78C1 35.4801 35.6919 1 78.5 1Z" stroke="#0D0D0D" stroke-width="2"/>
+<path d="M133 23.8472L24 132.153" stroke="#0D0D0D" stroke-width="2" stroke-linejoin="bevel"/>
+<path d="M239.271 61.5986H170.729L205 2.00586L239.271 61.5986Z" stroke="#0D0D0D" stroke-width="2"/>
+<path d="M323.271 61.5986H254.729L289 2.00586L323.271 61.5986Z" stroke="#0D0D0D" stroke-width="2"/>
+<path d="M205 60.6115V155.006" stroke="#0D0D0D" stroke-width="2" stroke-linejoin="bevel"/>
+<path d="M289 60.6115V155.006" stroke="#0D0D0D" stroke-width="2" stroke-linejoin="bevel"/>
+</g>
+</svg>
