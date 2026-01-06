@@ -1,2 +1,2 @@
 # KIS
-Edu Course
+Edu Course for Beginners 
