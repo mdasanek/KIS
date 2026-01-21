@@ -1258,7 +1258,7 @@ img {
   grid-column-gap: 12px;
   grid-row-gap: 12px;
   flex: 1;
-  justify-content: space-between;
+  justify-content: left;
   align-items: center;
   max-width: 1000px;
   padding-top: 32px;
