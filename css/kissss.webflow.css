@@ -2356,3 +2356,45 @@ img {
   font-style: normal;
   font-display: swap;
 }
+
+.kis_video_block {
+  margin-bottom: 16px;
+}
+
+.kis_video_toggle {
+  grid-column-gap: 8px;
+  grid-row-gap: 8px;
+  flex-wrap: wrap;
+  margin-bottom: 8px;
+  display: flex;
+}
+
+.kis_video_toggle_btn {
+  border: var(--border-width) solid var(--top-color-d);
+  border-radius: var(--border-radius);
+  background-color: var(--back-color-d);
+  color: var(--top-color-d);
+  cursor: pointer;
+  letter-spacing: var(--letter-spacing);
+  text-transform: lowercase;
+  padding: 4px 10px;
+  font-family: var(--main-font);
+}
+
+.kis_video_toggle_btn.is-active {
+  background-color: var(--top-color-d);
+  color: var(--back-color-d);
+}
+
+.kis_video_toggle_btn:focus-visible {
+  outline: 2px solid var(--top-color-d);
+  outline-offset: 2px;
+}
+
+.kis_video_embed {
+  display: none;
+}
+
+.kis_video_embed.is-active {
+  display: block;
+}
